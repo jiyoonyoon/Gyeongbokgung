@@ -703,6 +703,7 @@ section .container{
 /* section4 */
 .section4{
   margin-top: 150px;
+
 }
 
 /* section4-title */
@@ -1216,6 +1217,7 @@ section .container{
   line-height: 100px;
   box-shadow: 5px 5px 20px #cfcfcf;
   position: relative;
+  overflow: hidden;
 }
 .famliy button:first-child{
   width: 50px;
